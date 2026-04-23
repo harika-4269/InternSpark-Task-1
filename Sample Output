@@ -1,0 +1,17 @@
+Created directory: ./file_demo
+Sample files created successfully.
+
+--- Reading File ---
+Content read: Hello, this is a sample text file for automation demo.
+
+--- Automating File Operations ---
+Moved and Renamed './file_demo/sample.txt' to './file_demo/archived_sample.txt'
+
+--- Reading CSV Data ---
+Processing: Task_A - Completed
+Processing: Task_B - Pending
+
+File operation sequence completed.
+
+Current files in ./file_demo:
+['archived_sample.txt', 'data.csv']
